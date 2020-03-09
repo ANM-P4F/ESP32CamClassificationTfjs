@@ -1,2 +1,4 @@
-# ESP32CamClassificationTfjs
-ESP32-CAM: Object classification with Tensorflow.js  
+# README #
+
+This project uses ESP32-CAM module and Tensorflow.js for object classification 
+
